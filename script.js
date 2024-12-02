@@ -29,7 +29,7 @@ let myFont;
 let rollButton, endTurnButton;
 
 function preload() {
-  myFont = loadFont('fonts/Roboto-Black.ttf');
+  myFont = loadFont('Roboto-Black.ttf');
 }
 
 function setup() {
